@@ -1,4 +1,5 @@
 DESCRIPTION OF PERSONAL WEBSITE
+
 A static website for a developer portfolio is a personal web-based platform designed to showcase a developer’s skills, projects, achievements, and professional information in a simple, attractive, and accessible manner. This project focuses on building a responsive and visually appealing portfolio website using HTML, CSS, and JavaScript, without relying on server-side technologies or databases. Since it is static in nature, the website loads faster, is easier to host, and provides a smooth user experience across different devices.
 
 The main objective of this project is to create a professional online presence for a developer that can be shared with recruiters, clients, and collaborators. The website serves as a digital resume that highlights technical expertise, educational background, work experience, and completed projects. By presenting all this information in an organized and interactive way, the portfolio website helps in building credibility and improving career opportunities.
@@ -14,6 +15,3 @@ The Resume section allows users to view or download the developer’s resume in 
 CSS is extensively used for styling the website, including layouts, color schemes, fonts, and responsiveness. Media queries ensure that the website adapts well to different screen sizes such as desktops, tablets, and mobile phones. JavaScript adds interactivity, such as form validation, smooth navigation, and dynamic content updates.
 
 In conclusion, the Static Developer Portfolio Website is a beginner-friendly yet powerful project that demonstrates front-end development skills. It helps developers present themselves professionally on the web while improving their understanding of web design principles. This project is cost-effective, easy to deploy, and highly useful for personal branding and career growth.
-
-OUTPUT
-Image Image
